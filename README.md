@@ -1,33 +1,78 @@
-# Shubham-Pandey
-<h1 align="center">Hi 👋, I'm Shubham Pandey</h1>
-<h3 align="center">A passionate "From Brute Force to Optimization: Problem-Solving in DSA</h3>
+<!--
+🌟 If viewing on GitHub, you’ll see this as your profile README!
+👉 You can customize icons and links as you like.
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshubham-coder&label=Profile%20views&color=0e75b6&style=flat" alt="iamshubham-coder" /> </p>
+# 👋 Hi there, I’m **Shubham Pandey**
+### 💻 *Computer Science & Engineering | Problem-Solver | Learner*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamshubham-coder" alt="iamshubham-coder" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=iamshubham202002&color=blueviolet)](https://github.com/iamshubham202002)
+![GitHub Followers](https://img.shields.io/github/followers/iamshubham202002?label=Follow&style=social)
 
-<p align="left"> <a href="https://twitter.com/shubham55228224" target="blank"><img src="https://img.shields.io/twitter/follow/shubham55228224?logo=twitter&style=for-the-badge" alt="shubham55228224" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Android devlopment**
+## 🔭 About Me
+👨‍🎓 I’m a passionate CSE student continuously improving my development and problem-solving skills.  
+💡 I enjoy learning **DSA, Android Development, Web Fundamentals, and competitive coding**.  
+🚀 I believe in consistent growth — *I myself be my strength*. :contentReference[oaicite:1]{index=1}
 
-- 💬 Ask me about **DSA PROBLEM/PROBLEM OPTIMIZATIONS**
+---
 
-- 📫 How to reach me **pandeyshubham9021@gmail.com**
+## 🚀 Skills & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shubham55228224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham55228224" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/iamshubham1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iamshubham1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/pandeyshubham9021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/pandeyshubham9021/" height="30" width="40" /></a>
-<a href="https://discord.gg/shubhampandey0956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubhampandey0956" height="30" width="40" /></a>
+### 🧠 Programming & Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-00599C?style=for-the-badge)
+
+### 📱 Android Development
+![Android](https://img.shields.io/badge/Android-Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🌐 Web Basics
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 💼 Projects / Pinned Repositories
+
+### ⚡ Featured Works
+<!-- These repo links are automatically shown on your profile, but extra highlights help! -->
+- 💥 **Car Race Game (Java)** – 2D car race game built using Java graphics. :contentReference[oaicite:2]{index=2}
+- 🌐 **HTML Project** – Beginner HTML project demonstrating basic web layout. :contentReference[oaicite:3]{index=3}
+- 🧩 **GFG POTD Solutions** – Data Structures & Algorithms practice via GeeksforGeeks POTD repos. :contentReference[oaicite:4]{index=4}
+
+---
+
+## 📫 Let’s Connect
+
+<p>
+  <a href="mailto:pandeyshubham9021@gmail.com"><img alt="Email" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" /></a>
+  <a href="https://github.com/iamshubham202002"><img alt="GitHub" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" /></a>
+  <a href="https://twitter.com/Shubham55228224"><img alt="Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" /></a>
+  <a href="https://codeforces.com/profile/iamshubham1"><img alt="Codeforces" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" /></a>
+  <a href="https://www.geeksforgeeks.org/user/pandeyshubham9021/"><img alt="GfG" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+Feel free to reach out if you’d like to collaborate or just talk tech! 🚀
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshubham-coder&show_icons=true&locale=en&layout=compact" alt="iamshubham-coder" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamshubham-coder&show_icons=true&locale=en" alt="iamshubham-coder" /></p>
+## 📝 Fun Fact
+💬 *Consistent effort beats intermittent genius.*  
+🛤 I aim to improve every day — from brute force to optimized problem-solving!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamshubham-coder&" alt="iamshubham-coder" /></p>
+---
 
+> ⭐ Thanks for dropping by!  
+> Let’s build something amazing together! 😄
+
+---
+
+*Made with ❤️ and ☕ by Shubham Pandey*  
